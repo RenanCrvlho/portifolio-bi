@@ -22,11 +22,11 @@
 <br></br>
 
 <h2>Vendas</h2>
-<img src="src/buscante - vendas.png" alt="Tela de E-commerce do Dashboard" width="600">
+<img src="src/buscante - vendas.png" alt="Tela de Vendas do Dashboard" width="600">
 <p>Já na aba "Vendas", podemos obter alguns dados, como o progresso de vendas, a meta de vendas e podemos filtrar tudo isso por semanas e analisar semana a semana.</p>
 <br></br>
 
 <h2>Clientes</h2>
-<img src="src/buscante - clientes.png" alt="Tela de E-commerce do Dashboard" width="600">
+<img src="src/buscante - clientes.png" alt="Tela de Clientes do Dashboard" width="600">
 <p>Dentro da aba "Clientes" do Dashboard, conseguimos analisar as profissões das pessoas que mais compram, a idade média dessas pessoas, a profissão mais frequente, a forma como eles preferem ser contatados e um filtro de cidade em formato de mapa, que auxilia na interação da pessoa que está analisando estes dados!!</p>
 <br></br>
