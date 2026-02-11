@@ -159,7 +159,7 @@ Visualize a imagem do dashboard diretamente neste repositório.
 <h2>👨‍💻 Autor</h2>
 
 <p>
-Desenvolvido por <strong>Seu Nome</strong><br>
+Desenvolvido por <strong>Renan de Carvalho</strong><br>
 Projeto para portfólio de Análise de Dados
 </p>
 

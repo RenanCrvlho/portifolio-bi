@@ -175,6 +175,6 @@ Demonstrar habilidades em:
 <h2>👨‍💻 Autor</h2>
 
 <p>
-Desenvolvido por <strong>Seu Nome</strong><br>
+Desenvolvido por <strong>Renan de Carvalho</strong><br>
 Projeto para portfólio de Business Intelligence e Análise de Dados
 </p>
