@@ -36,9 +36,7 @@ Atuo na área de <strong>Análise de Dados e Business Intelligence</strong>, com
 
 <p>
 
-Minha abordagem vai além da visualização: busco entender o contexto do negócio, identificar problemas
-
-e estruturar análises que realmente gerem valor.
+Minha abordagem vai além da visualização: busco entender o contexto do negócio, identificar problemas e estruturar análises que realmente gerem valor.
 
 </p>
 
@@ -210,9 +208,7 @@ O objetivo é demonstrar não apenas habilidade técnica, mas também capacidade
 
 <p>
 
-Busco oportunidades na área de <strong>Análise de Dados / Business Intelligence</strong>,
-
-onde eu possa contribuir com análises estratégicas, estruturação de indicadores e construção de dashboards que apoiem decisões orientadas por dados.
+Busco oportunidades na área de <strong>Análise de Dados / Business Intelligence</strong>, onde eu possa contribuir com análises estratégicas, estruturação de indicadores e construção de dashboards que apoiem decisões orientadas por dados.
 
 </p>
 
