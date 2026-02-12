@@ -5,7 +5,7 @@ Projeto de Análise Financeira desenvolvido no <strong>Power BI</strong> para si
 </p>
 
 <p align="center">
-  <img src="src/Financeiro.png" alt="Dashboard Aurora Financial Solutions" width="800"/>
+  <img src="src/Aurora Financial Solutions - Dashboard.png" alt="Dashboard Aurora Financial Solutions" width="800"/>
 </p>
 
 
