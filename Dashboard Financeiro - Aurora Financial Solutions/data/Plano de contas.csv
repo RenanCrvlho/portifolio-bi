@@ -1,0 +1,10 @@
+﻿ID;Movimento;Lançamento;Conta;Tipo
+101;Entrada;Receita;Venda de Produtos/Serviços;Fixo
+102;Entrada;Receita;Outras Receitas;Variável
+201;Saída;Custo;Insumos e Materiais de Consumo;Variável
+202;Saída;Custo;Aquisição de Produtos/Serviços;Fixo
+301;Saída;Despesa;Aluguel e Condomínio;Fixo
+302;Saída;Despesa;Folha de Pagamento;Fixo
+303;Saída;Despesa;Utilidades (Energia, Água, Internet);Fixo
+304;Saída;Despesa;Marketing e Publicidade;Variável
+305;Saída;Despesa;Despesas Administrativas e Bancárias;Variável
