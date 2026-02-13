@@ -1,32 +1,157 @@
-<h1 align="center">
-  :books: Dashboard Buscante :books:
-</h1>
-<br></br>
+<h1 align="center">📊 Dashboard BI - Buscante</h1>
 
-<div align="center">
-  <img src="" alt="">
-</div>
-<br></br>
+<p align="center">
+Dashboard analítico desenvolvido para monitoramento de métricas de <strong>Clientes</strong>, <strong>E-commerce</strong> e <strong>Vendas</strong>.
+</p>
 
-<h2> :information_source: Descrição </h2>
-<p align="center"> Projeto criado através de um curso na Alura com objeto introdutório ao Power BI</p>
-<br></br>
+<hr>
 
-<h2> :globe_with_meridians: Objetivo</h2>
-<p>O projeto tem como objetivo trazer os dados de um E-commerce de livros, a Buscante. Através deste Dashboard, conseguimos obter alguns insights interessantes para a empresa.</p>
-<br></br>
+<h2>📌 Sobre o Projeto</h2>
 
-<h2>E-commerce</h2>
-<img src="src/buscante - ecommerce.png" alt="Tela de E-commerce do Dashboard" width="600">
-<p>Através da aba "E-commerce" do Dashboard, conseguimos analisar a quantidade de assinaturas inativas, a média de acessos no total e por mês, os livros que são mais vendidos e conseguimos filtrar por cidade, para que tenhamos uma análise mais precisa!!</p>
-<br></br>
+<p>
+O <strong>Dashboard Buscante</strong> é uma solução de Business Intelligence desenvolvida para análise estratégica de dados comerciais.
+O projeto foi estruturado para oferecer uma visão clara e dinâmica das principais métricas do negócio, auxiliando na tomada de decisão baseada em dados.
+</p>
 
-<h2>Vendas</h2>
-<img src="src/buscante - vendas.png" alt="Tela de Vendas do Dashboard" width="600">
-<p>Já na aba "Vendas", podemos obter alguns dados, como o progresso de vendas, a meta de vendas e podemos filtrar tudo isso por semanas e analisar semana a semana.</p>
-<br></br>
+<p>
+O painel é dividido em três áreas principais:
+</p>
 
-<h2>Clientes</h2>
-<img src="src/buscante - clientes.png" alt="Tela de Clientes do Dashboard" width="600">
-<p>Dentro da aba "Clientes" do Dashboard, conseguimos analisar as profissões das pessoas que mais compram, a idade média dessas pessoas, a profissão mais frequente, a forma como eles preferem ser contatados e um filtro de cidade em formato de mapa, que auxilia na interação da pessoa que está analisando estes dados!!</p>
-<br></br>
+<ul>
+  <li><strong>Clientes</strong> – Perfil demográfico e distribuição geográfica</li>
+  <li><strong>E-commerce</strong> – Assinaturas, acessos e produtos mais visualizados</li>
+  <li><strong>Vendas</strong> – Metas, progresso e análise semanal</li>
+</ul>
+
+<hr>
+
+<h2>🧩 Estrutura do Dashboard</h2>
+
+<h3>👥 Clientes</h3>
+
+<ul>
+  <li>Idade média dos clientes</li>
+  <li>Profissão mais frequente</li>
+  <li>Contagem por profissão</li>
+  <li>Contato preferido x média de idade</li>
+  <li>Distribuição geográfica por cidades (mapa interativo)</li>
+</ul>
+
+<br>
+
+<img src="buscante - clientes.png" alt="Dashboard Clientes" width="100%">
+
+<hr>
+
+<h3>🛒 E-commerce</h3>
+
+<ul>
+  <li>Total de assinaturas inativas</li>
+  <li>Média de acessos</li>
+  <li>Heatmap de acessos mensais</li>
+  <li>Ranking de livros mais acessados</li>
+  <li>Filtro dinâmico por cidades</li>
+</ul>
+
+<br>
+
+<img src="buscante - ecommerce.png" alt="Dashboard Ecommerce" width="100%">
+
+<hr>
+
+<h3>💰 Vendas</h3>
+
+<ul>
+  <li>Progresso das vendas (gauge)</li>
+  <li>Meta de vendas</li>
+  <li>Filtro por semanas</li>
+  <li>Análise de vendas por semana</li>
+  <li>Projeção de tendência</li>
+</ul>
+
+<br>
+
+<img src="buscante - vendas.png" alt="Dashboard Vendas" width="100%">
+
+<hr>
+
+<h2>📊 Principais Indicadores (KPIs)</h2>
+
+<ul>
+  <li>✔ Idade média dos clientes</li>
+  <li>✔ Profissão mais recorrente</li>
+  <li>✔ Assinaturas inativas</li>
+  <li>✔ Média de acessos mensais</li>
+  <li>✔ Meta vs Progresso de vendas</li>
+  <li>✔ Tendência de crescimento semanal</li>
+</ul>
+
+<hr>
+
+<h2>🛠️ Ferramentas Utilizadas</h2>
+
+<ul>
+  <li>Power BI (Modelagem e Visualização)</li>
+  <li>Tratamento de Dados (ETL)</li>
+  <li>DAX para criação de métricas</li>
+  <li>Modelagem de dados relacional</li>
+</ul>
+
+<hr>
+
+<h2>🎯 Objetivo do Projeto</h2>
+
+<p>
+Demonstrar habilidades em:
+</p>
+
+<ul>
+  <li>Modelagem de dados</li>
+  <li>Construção de dashboards estratégicos</li>
+  <li>Design focado em usabilidade</li>
+  <li>Criação de KPIs relevantes para negócio</li>
+  <li>Análise exploratória de dados</li>
+</ul>
+
+<hr>
+
+<h2>📈 Insights Estratégicos</h2>
+
+<ul>
+  <li>A profissão mais recorrente é <strong>Desenvolvedor(a)</strong>.</li>
+  <li>A média de idade varia conforme o canal de contato.</li>
+  <li>Há crescimento consistente nas vendas semanais.</li>
+  <li>Alguns títulos concentram maior volume de acessos.</li>
+</ul>
+
+<hr>
+
+<h2>🚀 Como Visualizar</h2>
+
+<p>
+Caso o projeto esteja publicado:
+</p>
+
+<ul>
+  <li>🔗 Inserir link do Power BI Service aqui</li>
+</ul>
+
+<p>
+Ou clone o repositório:
+</p>
+
+<pre>
+git clone https://github.com/seu-usuario/seu-repositorio.git
+</pre>
+
+<hr>
+
+<h2>📌 Autor</h2>
+
+
+<h2>👨‍💻 Autor</h2>
+
+<p>
+Desenvolvido por <strong>Renan de Carvalho</strong><br>
+Projeto para portfólio de Análise de Dados
+</p>
