@@ -141,13 +141,10 @@ Ou clone o repositório:
 </p>
 
 <pre>
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/RenanCrvlho/portifolio-bi
 </pre>
 
 <hr>
-
-<h2>📌 Autor</h2>
-
 
 <h2>👨‍💻 Autor</h2>
 
