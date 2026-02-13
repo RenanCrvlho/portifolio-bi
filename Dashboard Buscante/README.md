@@ -39,7 +39,7 @@ O painel é dividido em três áreas principais:
 
 <br>
 
-<img src="buscante - clientes.png" alt="Dashboard Clientes" width="100%">
+<img src="src/buscante - clientes.png" alt="Dashboard Clientes" width="100%">
 
 <hr>
 
@@ -55,7 +55,7 @@ O painel é dividido em três áreas principais:
 
 <br>
 
-<img src="buscante - ecommerce.png" alt="Dashboard Ecommerce" width="100%">
+<img src="src/buscante - ecommerce.png" alt="Dashboard Ecommerce" width="100%">
 
 <hr>
 
@@ -71,7 +71,7 @@ O painel é dividido em três áreas principais:
 
 <br>
 
-<img src="buscante - vendas.png" alt="Dashboard Vendas" width="100%">
+<img src="src/buscante - vendas.png" alt="Dashboard Vendas" width="100%">
 
 <hr>
 
